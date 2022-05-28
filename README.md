@@ -1,7 +1,12 @@
 # Serious-SQL
-<p>Journey with SQL - By following Danny Ma's serious-sql course.</p>
-Below are the topics covered.</br>
-__Data Exploration__.
-  1. Select & Sort.
+*Journey with SQL - By following **Danny Ma's** Course*
+
+Below are the topics explored in this course
+* Data Exploration
+  * Select & Sort
+  * Record COunts & Distinct Values
+  * Identifying Duplicate Records
+  * Summary Statistics
+  * Distribution Functions
 
 
